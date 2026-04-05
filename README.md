@@ -4,7 +4,7 @@ This mod shows card status and progress related details in tooltip.
 
 ![Preview](pic/screenshot1.png)
 
-# Usage
+# Usage示例
 
 ## Install BepInEx
 
